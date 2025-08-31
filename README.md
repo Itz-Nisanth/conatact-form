@@ -1,6 +1,6 @@
 # 📩 Contact Form: 
 
-This project connects both **backend** and **frontend**. For storing data, it uses **MongoDB Atlas**. For running the backend in development, **nodemon** is used.
+This project connects both **backend** and **frontend**. For storing data, it uses **MongoDB Atlas**. For backend **Node.js + Express.js** is used.
 
 ---
 
